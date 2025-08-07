@@ -1,4 +1,4 @@
-mport React from 'react';
+import React from 'react';
 
 const App = () => {
   const relatives = ["Uncle", "Aunt", "Grandparents", "Cousin", "Sister"];
